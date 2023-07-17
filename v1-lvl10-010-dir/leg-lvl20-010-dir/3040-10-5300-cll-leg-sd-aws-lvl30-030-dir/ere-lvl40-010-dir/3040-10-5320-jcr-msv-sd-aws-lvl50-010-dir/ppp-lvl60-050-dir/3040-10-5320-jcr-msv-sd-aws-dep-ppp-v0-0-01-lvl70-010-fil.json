@@ -1,0 +1,15 @@
+{
+  "resourceMetadataKEY": "yes",
+  "serviceListKEY": [
+    {
+      "program1NameKEY": "SSH",
+      "protocol1TypeKEY": "TCP",
+      "port1RangeKEY": 22
+    },
+    {
+      "program2NameKEY": "Windows Remote Desktop",
+      "protocol2TypeKEY": "RDP",
+      "port2RangeKEY": 3389
+    }
+  ]
+}
