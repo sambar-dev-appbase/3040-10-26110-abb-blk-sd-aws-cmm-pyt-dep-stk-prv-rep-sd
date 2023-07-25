@@ -1,0 +1,14 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "no",
+  "program1NameKEY": "SSH",
+  "protocol1TypeKEY": "TCP",
+  "portRange1KEY": "22",
+  "program2NameKEY": "Windows Remote Desktop",
+  "protocol2TypeKEY": "RDP",
+  "portRange2KEY": "3389"
+},
+  "communication": {
+    "resourceMetadataKEY": "no"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "no",
+  "program1NameKEY": "Jenkins",
+  "protocol1TypeKEY": "https",
+  "portRange1KEY": "8080",
+  "program2NameKEY": "Putty",
+  "protocol2TypeKEY": "ssh",
+  "portRange2KEY": "22"
+},
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

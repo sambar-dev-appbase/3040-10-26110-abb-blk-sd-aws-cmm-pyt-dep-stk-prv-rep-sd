@@ -1,0 +1,15 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "no",
+  "assetFileNameKEY": "asset_name",
+  "assetFileTypeKEY": "asset_type",
+  "assetFilePathKEY": "asset_path",
+  "assetMetadataKEY": {
+    "assetMetadata1KEY": "value1",
+    "assetMetadata2KEY": "value2"
+  }
+},
+  "communication": {
+    "resourceMetadataKEY": "no"
+  }
+}

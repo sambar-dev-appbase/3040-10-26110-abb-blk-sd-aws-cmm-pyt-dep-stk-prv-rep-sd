@@ -1,0 +1,10 @@
+{
+  "installation": {
+    "resourceMetadataKEY": "yes",
+    "bucket-user-registration-image-03203-access-key": "AKIAZH7HCQ4SMOOYVIHO",
+    "bucket-user-registration-image-03203-secret-key": "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"
+  },
+  "communication": {
+    "resourceMetadataKEY": "no"
+  }
+}
