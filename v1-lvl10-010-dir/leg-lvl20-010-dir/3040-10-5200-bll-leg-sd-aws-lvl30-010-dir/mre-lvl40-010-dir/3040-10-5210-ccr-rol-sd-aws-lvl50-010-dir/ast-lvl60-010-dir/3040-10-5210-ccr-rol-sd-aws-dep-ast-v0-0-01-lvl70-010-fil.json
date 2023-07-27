@@ -9,7 +9,7 @@
       "assetMetadata2KEY": "value2"
     }
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

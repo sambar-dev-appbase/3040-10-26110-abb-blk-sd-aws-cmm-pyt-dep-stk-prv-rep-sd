@@ -8,7 +8,7 @@
   "protocol2TypeKEY": "RDP",
   "portRange2KEY": "3389"
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }
