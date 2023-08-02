@@ -1,12 +1,12 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "yes",
     "hostNameKEY": "user-account-number-3040-10-sd2.cbpbuxovjc6d.eu-west-2.rds.amazonaws.com",
     "databseNameKEY": "user-account-number-3040-10-dtn-sd",
     "usernameNameKEY": "admni123",
     "passwordNameKEY": "mnbv12421*"  
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
   }
 }

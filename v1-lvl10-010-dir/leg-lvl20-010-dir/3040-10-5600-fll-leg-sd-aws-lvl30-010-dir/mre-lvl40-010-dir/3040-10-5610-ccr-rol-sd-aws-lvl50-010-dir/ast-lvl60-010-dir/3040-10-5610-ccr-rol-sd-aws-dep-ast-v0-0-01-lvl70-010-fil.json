@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "no",
     "assetFileNameKEY": "asset_name",
     "assetFileTypeKEY": "asset_type",
@@ -9,7 +9,13 @@
       "assetMetadata2KEY": "value2"
     }
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

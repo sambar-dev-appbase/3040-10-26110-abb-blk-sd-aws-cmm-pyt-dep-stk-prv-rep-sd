@@ -1,14 +1,20 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "no",
-  "program1NameKEY": "SSH",
-  "protocol1TypeKEY": "TCP",
+  "program1NameKEY": "ssh",
+  "protocol1TypeKEY": "tcp",
   "portRange1KEY": "22",
-  "program2NameKEY": "Windows Remote Desktop",
-  "protocol2TypeKEY": "RDP",
+  "program2NameKEY": "windows remote desktop",
+  "protocol2TypeKEY": "rdp",
   "portRange2KEY": "3389"
 },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

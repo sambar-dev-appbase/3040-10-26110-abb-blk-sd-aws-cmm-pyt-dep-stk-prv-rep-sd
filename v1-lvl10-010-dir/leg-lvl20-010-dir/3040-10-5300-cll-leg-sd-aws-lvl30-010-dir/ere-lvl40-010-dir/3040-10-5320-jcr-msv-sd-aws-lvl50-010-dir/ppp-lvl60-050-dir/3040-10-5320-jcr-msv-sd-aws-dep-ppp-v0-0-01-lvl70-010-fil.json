@@ -1,14 +1,20 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "no",
-  "program1NameKEY": "Jenkins",
+  "program1NameKEY": "jenkins",
   "protocol1TypeKEY": "https",
   "portRange1KEY": "8080",
-  "program2NameKEY": "Putty",
+  "program2NameKEY": "putty",
   "protocol2TypeKEY": "ssh",
   "portRange2KEY": "22"
 },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

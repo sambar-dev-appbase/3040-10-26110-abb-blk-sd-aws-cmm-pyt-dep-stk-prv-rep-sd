@@ -1,10 +1,16 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "yes",
     "bucket-user-registration-image-03203-access-key": "AKIAZH7HCQ4SMOOYVIHO",
     "bucket-user-registration-image-03203-secret-key": "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"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "no"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
   }
 }
