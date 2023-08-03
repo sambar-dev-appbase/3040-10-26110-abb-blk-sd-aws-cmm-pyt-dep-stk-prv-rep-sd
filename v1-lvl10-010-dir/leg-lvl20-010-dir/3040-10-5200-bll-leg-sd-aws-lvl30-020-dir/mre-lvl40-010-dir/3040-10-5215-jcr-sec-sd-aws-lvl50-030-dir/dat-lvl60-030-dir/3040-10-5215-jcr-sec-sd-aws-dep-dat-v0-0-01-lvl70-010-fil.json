@@ -1,6 +1,7 @@
 {
   "configuration": {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "userNameKEY": "admni123"
 },
   "installation": {
     "resourceMetadataKEY": "no"
