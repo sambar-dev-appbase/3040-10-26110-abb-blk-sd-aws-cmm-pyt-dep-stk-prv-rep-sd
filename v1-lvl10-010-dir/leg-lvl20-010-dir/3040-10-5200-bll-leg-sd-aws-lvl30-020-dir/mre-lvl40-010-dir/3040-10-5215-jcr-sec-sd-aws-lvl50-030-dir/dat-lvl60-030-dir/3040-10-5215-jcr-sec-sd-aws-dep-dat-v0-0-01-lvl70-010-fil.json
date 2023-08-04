@@ -1,9 +1,15 @@
 {
   "configuration": {
-  "resourceMetadataKEY": "yes",
-  "userNameKEY": "admni123"
-},
+    "resourceMetadataKEY": "no"
+  },
   "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "resourceMetadataKEY": "yes",
+    "userNameKEY": "admin123"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }
