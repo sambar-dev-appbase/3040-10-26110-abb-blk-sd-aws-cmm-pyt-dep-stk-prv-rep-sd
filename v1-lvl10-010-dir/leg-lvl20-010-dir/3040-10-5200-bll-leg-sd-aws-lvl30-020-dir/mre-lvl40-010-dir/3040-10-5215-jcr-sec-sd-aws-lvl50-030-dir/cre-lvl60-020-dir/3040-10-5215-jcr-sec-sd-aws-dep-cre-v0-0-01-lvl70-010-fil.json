@@ -1,12 +1,15 @@
 {
   "configuration": {
-    "resourceMetadataKEY": "yes",
-    "hostNameKEY": "user-account-number-3040-10-sd2.cbpbuxovjc6d.eu-west-2.rds.amazonaws.com",
-    "databseNameKEY": "user-account-number-3040-10-dtn-sd",
-    "usernameNameKEY": "admni123",
-    "userPasswordKEY": "mnbv12421*"  
+    "resourceMetadataKEY": "no"
   },
   "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "resourceMetadataKEY": "yes",
+    "userPasswordKEY": "mnbv12421*"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }
