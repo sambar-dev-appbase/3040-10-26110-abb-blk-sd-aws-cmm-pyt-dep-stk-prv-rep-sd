@@ -10,6 +10,6 @@
     "userNameKEY": "admin123"
   },
   "operation": {
-    "elementMetadataKEY": "no"
+    "resourceMetadataKEY": "no"
   }
 }
